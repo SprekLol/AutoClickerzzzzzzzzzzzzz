@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Auto Clicker Pro</string>
+    <string name="accessibility_service_title">Auto Clicker Service</string>
+    <string name="accessibility_service_description">Required to perform auto-clicks and touch hold gestures on your screen.</string>
+    
+    <!-- Floating Window UI -->
+    <string name="btn_start">Start</string>
+    <string name="btn_stop">Stop</string>
+    <string name="btn_settings">Settings</string>
+    
+    <!-- Settings UI -->
+    <string name="title_mode">Select Mode</string>
+    <string name="mode_interval">Interval Click</string>
+    <string name="mode_hold">Hold Position</string>
+    <string name="label_x">X Position:</string>
+    <string name="label_y">Y Position:</string>
+    <string name="label_hold_duration">Hold Duration (ms):</string>
+    <string name="label_interval">Click Interval (ms):</string>
+    <string name="btn_save">Save</string>
+</resources>
